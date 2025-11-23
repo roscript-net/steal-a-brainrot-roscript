@@ -1,17 +1,17 @@
-# RoScript
+# __RoScript__
 
-## Steal a Brainrot Hub
+## __Steal a Brainrot Hub__
 
-## 🔗 Discord
+## 🔗 __Discord__
 https://discord.gg/MxkKD8TES8
 
-## 📌 Script Info
-- no Key System
-- key is in the discord 
-- nice user interface
-- many cool functions for Steal a
-  brainrot 
+## 📌 __Script Info__
+- __no Key System__
+- __key is in the discord__
+- __nice user interface__
+- __many cool functions for Steal a
+  brainrot__
 
-## ⭐ Credits
-made by @roscript
-website __soon__ https://roscript.net
+## ⭐ __Credits__
+made by __@roscript__
+website __soon__ https://__roscript.net__
