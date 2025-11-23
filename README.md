@@ -3,7 +3,7 @@
 ## __Steal a Brainrot Hub__
 
 ## 🔗 __Discord__
-[Tap here](https://discord.gg/MxkKD8TES8)
+  [Tap here](https://discord.gg/MxkKD8TES8)
 
 ## 📌 __Script Info__
 - __no Key System__
