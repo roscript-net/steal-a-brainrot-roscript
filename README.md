@@ -1,5 +1,5 @@
 # __RoScript__
-## Steal a Brainrot
+## __Steal a Brainrot script__
 ![RoScript Hub preview](https://i.imgur.com/byBHgFw.png)
 ## 🔗 __Discord__
 [tap here](https://discord.gg/MxkKD8TES8)                         
